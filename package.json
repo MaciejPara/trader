@@ -1,0 +1,24 @@
+{
+  "name": "trader",
+  "version": "1.0.0",
+  "description": "trading machine",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsc index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaciejPara/trader.git"
+  },
+  "author": "MP & JL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaciejPara/trader/issues"
+  },
+  "homepage": "https://github.com/MaciejPara/trader#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.9",
+    "typescript": "^4.3.5"
+  }
+}
